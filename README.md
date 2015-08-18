@@ -1,4 +1,5 @@
-randyTheme is a script that will randomly select RGB values and apply 
+#randyTheme  
+is a script that will randomly select RGB values and apply 
 them to the Mate desktop's(and strictly the Mate desktop) gradient 
 wallpaper, theme selected_bg_color(window borders and selected item 
 backgrounds), and mate-terminal's default profile text color.
