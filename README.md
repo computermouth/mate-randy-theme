@@ -26,3 +26,8 @@ Applications'.
 
 (I use the Traditional Green widget theme, with the Albatross window 
 borders. *Albatross's window titlebar is not tied to selected_bg_color.)
+
+#Screenshots
+![screenshot1](https://raw.githubusercontent.com/computermouth/mate-randy-theme/master/screenshots/Screenshot-1.png)
+![screenshot2](https://raw.githubusercontent.com/computermouth/mate-randy-theme/master/screenshots/Screenshot-2.png)
+![screenshot3](https://raw.githubusercontent.com/computermouth/mate-randy-theme/master/screenshots/Screenshot-3.png)
